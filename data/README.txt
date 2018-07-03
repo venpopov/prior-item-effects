@@ -1,6 +1,17 @@
 We are greatful to all researchers who have shared their data with us.
 
 ############################################################################################
+# aue-2017/
+# ------------------------------------------------------------------------------------------
+#   Aue, W. R., Criss, A. H., & Novak, M. D. (2017). Evaluating mechanisms of 
+#   proactive facilitation in cued recall. Journal of Memory and Language, 94,
+#   103-118.
+#
+#   Data available from: https://osf.io/6ph2z/
+# ------------------------------------------------------------------------------------------
+
+
+############################################################################################
 # buchler2008_exp1.csv
 # ------------------------------------------------------------------------------------------
 #   Buchler, N. G., Light, L. L., & Reder, L. M. (2008). Memory for items and associations: 
@@ -15,6 +26,8 @@ We are greatful to all researchers who have shared their data with us.
 #   Cox, G. E., Hemmer, P., Aue, W. R., & Criss, A. H. (2018). Information and processes 
 #   underlying semantic and episodic memory across tasks, items, and individuals. 
 #   Journal of Experimental Psychology: General, 147(4), 545.
+#
+#   Data available from: https://osf.io/dd8kp/
 # ------------------------------------------------------------------------------------------
 
 
@@ -71,4 +84,6 @@ We are greatful to all researchers who have shared their data with us.
 #   Ward, G., Woodward, G., Stevens, A., & Stinson, C. (2003). Using overt rehearsals 
 #   to explain word frequency effects in free recall. Journal of Experimental Psychology: 
 #   Learning, Memory, and Cognition, 29(2), 186.
+#
+#   Data available from: Geoffrey Ward
 # ------------------------------------------------------------------------------------------
