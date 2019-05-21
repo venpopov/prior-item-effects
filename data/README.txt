@@ -50,6 +50,16 @@ We are greatful to all researchers who have shared their data with us.
 
 
 ############################################################################################
+# PEERS.csv
+# ------------------------------------------------------------------------------------------
+#   The data reported here are from the Penn Electrophysiology of Encoding and Retrieval dat (PEERS)
+#   Experiment 1. 7 sessions, each session contains 16 lists of 16 words presented one at a time
+#   each dat list was followed by a free recall test
+#   check this paper for description http://memory.psych.upenn.edu/files/pubs/HealEtal14.pdf
+# ------------------------------------------------------------------------------------------
+
+
+############################################################################################
 # popov2018_exp2.csv
 # ------------------------------------------------------------------------------------------
 #   Popov, V.*, Marevic, I.*, Rummel, J. & Reder, L. (2018). Forgetting is a Feature, not a 
